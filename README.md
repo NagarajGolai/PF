@@ -5,7 +5,7 @@
 **Nagaraj | Web Developer | AI Enthusiast | Problem Solver**  
 
 ### **Description:**  
-Hey there! I'm Nagaraj, a passionate Technology Enthusiast with expertise in frontend and backend development. I love building interactive websites, AI-powered applications, and exploring the world of data analytics and machine learning.  
+Hey there! I'm Nagaraj, a passionate Technology Enthusiast with expertise in frontend, backend development and programming. I love building interactive websites, AI-powered applications, programming and exploring the world of DSA, data analytics and machine learning.  
 
 🔹 **What I Do:**  
 - Web Development (HTML, CSS, JavaScript, React, Django)
